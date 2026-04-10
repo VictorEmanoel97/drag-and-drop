@@ -1,7 +1,8 @@
 # 🧱 JS Drag & Drop Blocks
 
 ### Uma implementação leve e intuitiva de um sistema de "arrastar e soltar" (Drag and Drop) desenvolvida com JavaScript Vanilla. Este projeto demonstra como manipular a interface do usuário de forma dinâmica utilizando as APIs nativas do navegador.
-🎯 Objetivo
+
+## 🎯 Objetivo
 
 # O projeto visa fornecer uma base sólida para interfaces que exigem movimentação de elementos, como quadros Kanban (estilo Trello), organizadores de tarefas ou customização de layouts, sem a necessidade de bibliotecas pesadas como jQuery ou frameworks complexos.
 ✨ Funcionalidades
